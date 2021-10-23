@@ -369,8 +369,10 @@ venv.bak/
 /week01/practices/99_solutions
 /week01/practices/otras_pracs
 
-# OSx files
+
+# Operating System files
 .DS_Store
+desktop.ini
 
 # Vscode directory
 .vscode/
