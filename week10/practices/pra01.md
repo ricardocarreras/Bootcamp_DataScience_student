@@ -1,3 +1,7 @@
+# Enunciado pra01 - Pandas
+
+**dataset**: https://github.com/marcusRB/IDbootcamps_DataScience_student_PT_10201/blob/master/week10/data/parsed.csv
+
 - Encuentre el percentil 95 de la magnitud del terremoto en Japón usando el tipo de magnitud `mb`.
 - Encuentre el porcentaje de terremotos en Indonesia que se acompañaron de tsunamis.
 - Calcule estadísticas resumidas para terremotos en Nevada.
